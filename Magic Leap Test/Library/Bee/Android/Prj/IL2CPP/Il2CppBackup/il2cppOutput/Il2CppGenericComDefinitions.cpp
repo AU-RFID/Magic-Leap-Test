@@ -1,0 +1,382 @@
+﻿#include "pch-cpp.hpp"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+
+
+
+
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m01E45A4E7784DDE86A438091E3A81C79114E3F83_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m049C831A0EA1C6F3BDAC6CCF35ABAAD59D4B61C9_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m0D5A96D145F29FA743476AAB21ED6F7CB79A9FA0_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m1A12E30BB35EE4258FDA57848E987F8DD3EC1B68_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m1D418534C816B03DB15DF73598CE666DDD5BE2B1_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m283D9F2D74511B9DE85E346A6292740741982A66_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m2E91820A7ECFCAFA3560C3B4982BD0B83253075E_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m364EA0381DD1DE3369B8E4E9B64A389C15FC3172_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m3CB655F953EEBD5861446E5CD3C1B64B02486D38_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m49A9EC701668A65D32ACBED9267189C6A162B6D5_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m50C2EE281DDD925DCC116FAC2ABCC5DE3F8D7EA8_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m53B5ED8A8C4D6D3D9BC02BB655F0C94BAD281638_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m9B2E25D3F4EA4F4C414F2C996ED0F1725E3DCBFD_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_m9E0DB7DA3FF3DFEC0D796168509D707E03BFE837_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_mAA36BA4E573F930185715273C0E5BAD9892960C4_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_mCD24070FB4606CAA9A6FF6682EA95E948E530734_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_mEA53D1512AEAF71B746D1B00786F2FB427C18C39_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_mEBA8AE194452510066F4BA945CE963B2E7CF58E8_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MLAutoAPISingleton_1_OnPerceptionShutdown_mF624A4E7A12828EC531D1417B0B902BBF0C37DF6_RuntimeMethod_var;
+
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+
+
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared (const RuntimeMethod* method) ;
+
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m49A9EC701668A65D32ACBED9267189C6A162B6D5 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m9E0DB7DA3FF3DFEC0D796168509D707E03BFE837 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m0D5A96D145F29FA743476AAB21ED6F7CB79A9FA0 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_mEBA8AE194452510066F4BA945CE963B2E7CF58E8 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m3CB655F953EEBD5861446E5CD3C1B64B02486D38 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m50C2EE281DDD925DCC116FAC2ABCC5DE3F8D7EA8 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_mF624A4E7A12828EC531D1417B0B902BBF0C37DF6 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_mAA36BA4E573F930185715273C0E5BAD9892960C4 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m01E45A4E7784DDE86A438091E3A81C79114E3F83 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m2E91820A7ECFCAFA3560C3B4982BD0B83253075E (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m364EA0381DD1DE3369B8E4E9B64A389C15FC3172 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_mEA53D1512AEAF71B746D1B00786F2FB427C18C39 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m9B2E25D3F4EA4F4C414F2C996ED0F1725E3DCBFD (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m1A12E30BB35EE4258FDA57848E987F8DD3EC1B68 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m1D418534C816B03DB15DF73598CE666DDD5BE2B1 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_mCD24070FB4606CAA9A6FF6682EA95E948E530734 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m283D9F2D74511B9DE85E346A6292740741982A66 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m049C831A0EA1C6F3BDAC6CCF35ABAAD59D4B61C9 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_m53B5ED8A8C4D6D3D9BC02BB655F0C94BAD281638 (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+inline void MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA (const RuntimeMethod* method)
+{
+	((  void (*) (const RuntimeMethod*))MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_gshared)(method);
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m49A9EC701668A65D32ACBED9267189C6A162B6D5()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m49A9EC701668A65D32ACBED9267189C6A162B6D5_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m49A9EC701668A65D32ACBED9267189C6A162B6D5(MLAutoAPISingleton_1_OnPerceptionShutdown_m49A9EC701668A65D32ACBED9267189C6A162B6D5_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m9E0DB7DA3FF3DFEC0D796168509D707E03BFE837()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m9E0DB7DA3FF3DFEC0D796168509D707E03BFE837_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m9E0DB7DA3FF3DFEC0D796168509D707E03BFE837(MLAutoAPISingleton_1_OnPerceptionShutdown_m9E0DB7DA3FF3DFEC0D796168509D707E03BFE837_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m0D5A96D145F29FA743476AAB21ED6F7CB79A9FA0()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m0D5A96D145F29FA743476AAB21ED6F7CB79A9FA0_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m0D5A96D145F29FA743476AAB21ED6F7CB79A9FA0(MLAutoAPISingleton_1_OnPerceptionShutdown_m0D5A96D145F29FA743476AAB21ED6F7CB79A9FA0_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_mEBA8AE194452510066F4BA945CE963B2E7CF58E8()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_mEBA8AE194452510066F4BA945CE963B2E7CF58E8_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_mEBA8AE194452510066F4BA945CE963B2E7CF58E8(MLAutoAPISingleton_1_OnPerceptionShutdown_mEBA8AE194452510066F4BA945CE963B2E7CF58E8_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m3CB655F953EEBD5861446E5CD3C1B64B02486D38()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m3CB655F953EEBD5861446E5CD3C1B64B02486D38_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m3CB655F953EEBD5861446E5CD3C1B64B02486D38(MLAutoAPISingleton_1_OnPerceptionShutdown_m3CB655F953EEBD5861446E5CD3C1B64B02486D38_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m50C2EE281DDD925DCC116FAC2ABCC5DE3F8D7EA8()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m50C2EE281DDD925DCC116FAC2ABCC5DE3F8D7EA8_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m50C2EE281DDD925DCC116FAC2ABCC5DE3F8D7EA8(MLAutoAPISingleton_1_OnPerceptionShutdown_m50C2EE281DDD925DCC116FAC2ABCC5DE3F8D7EA8_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_mF624A4E7A12828EC531D1417B0B902BBF0C37DF6()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_mF624A4E7A12828EC531D1417B0B902BBF0C37DF6_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_mF624A4E7A12828EC531D1417B0B902BBF0C37DF6(MLAutoAPISingleton_1_OnPerceptionShutdown_mF624A4E7A12828EC531D1417B0B902BBF0C37DF6_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_mAA36BA4E573F930185715273C0E5BAD9892960C4()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_mAA36BA4E573F930185715273C0E5BAD9892960C4_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_mAA36BA4E573F930185715273C0E5BAD9892960C4(MLAutoAPISingleton_1_OnPerceptionShutdown_mAA36BA4E573F930185715273C0E5BAD9892960C4_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m01E45A4E7784DDE86A438091E3A81C79114E3F83()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m01E45A4E7784DDE86A438091E3A81C79114E3F83_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m01E45A4E7784DDE86A438091E3A81C79114E3F83(MLAutoAPISingleton_1_OnPerceptionShutdown_m01E45A4E7784DDE86A438091E3A81C79114E3F83_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m2E91820A7ECFCAFA3560C3B4982BD0B83253075E()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m2E91820A7ECFCAFA3560C3B4982BD0B83253075E_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m2E91820A7ECFCAFA3560C3B4982BD0B83253075E(MLAutoAPISingleton_1_OnPerceptionShutdown_m2E91820A7ECFCAFA3560C3B4982BD0B83253075E_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m364EA0381DD1DE3369B8E4E9B64A389C15FC3172()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m364EA0381DD1DE3369B8E4E9B64A389C15FC3172_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m364EA0381DD1DE3369B8E4E9B64A389C15FC3172(MLAutoAPISingleton_1_OnPerceptionShutdown_m364EA0381DD1DE3369B8E4E9B64A389C15FC3172_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_mEA53D1512AEAF71B746D1B00786F2FB427C18C39()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_mEA53D1512AEAF71B746D1B00786F2FB427C18C39_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_mEA53D1512AEAF71B746D1B00786F2FB427C18C39(MLAutoAPISingleton_1_OnPerceptionShutdown_mEA53D1512AEAF71B746D1B00786F2FB427C18C39_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m9B2E25D3F4EA4F4C414F2C996ED0F1725E3DCBFD()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m9B2E25D3F4EA4F4C414F2C996ED0F1725E3DCBFD_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m9B2E25D3F4EA4F4C414F2C996ED0F1725E3DCBFD(MLAutoAPISingleton_1_OnPerceptionShutdown_m9B2E25D3F4EA4F4C414F2C996ED0F1725E3DCBFD_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m1A12E30BB35EE4258FDA57848E987F8DD3EC1B68()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m1A12E30BB35EE4258FDA57848E987F8DD3EC1B68_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m1A12E30BB35EE4258FDA57848E987F8DD3EC1B68(MLAutoAPISingleton_1_OnPerceptionShutdown_m1A12E30BB35EE4258FDA57848E987F8DD3EC1B68_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m1D418534C816B03DB15DF73598CE666DDD5BE2B1()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m1D418534C816B03DB15DF73598CE666DDD5BE2B1_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m1D418534C816B03DB15DF73598CE666DDD5BE2B1(MLAutoAPISingleton_1_OnPerceptionShutdown_m1D418534C816B03DB15DF73598CE666DDD5BE2B1_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_mCD24070FB4606CAA9A6FF6682EA95E948E530734()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_mCD24070FB4606CAA9A6FF6682EA95E948E530734_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_mCD24070FB4606CAA9A6FF6682EA95E948E530734(MLAutoAPISingleton_1_OnPerceptionShutdown_mCD24070FB4606CAA9A6FF6682EA95E948E530734_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m283D9F2D74511B9DE85E346A6292740741982A66()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m283D9F2D74511B9DE85E346A6292740741982A66_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m283D9F2D74511B9DE85E346A6292740741982A66(MLAutoAPISingleton_1_OnPerceptionShutdown_m283D9F2D74511B9DE85E346A6292740741982A66_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m049C831A0EA1C6F3BDAC6CCF35ABAAD59D4B61C9()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m049C831A0EA1C6F3BDAC6CCF35ABAAD59D4B61C9_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m049C831A0EA1C6F3BDAC6CCF35ABAAD59D4B61C9(MLAutoAPISingleton_1_OnPerceptionShutdown_m049C831A0EA1C6F3BDAC6CCF35ABAAD59D4B61C9_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_m53B5ED8A8C4D6D3D9BC02BB655F0C94BAD281638()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_m53B5ED8A8C4D6D3D9BC02BB655F0C94BAD281638_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_m53B5ED8A8C4D6D3D9BC02BB655F0C94BAD281638(MLAutoAPISingleton_1_OnPerceptionShutdown_m53B5ED8A8C4D6D3D9BC02BB655F0C94BAD281638_RuntimeMethod_var);
+
+}
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA()
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	il2cpp::vm::ScopedThreadAttacher _vmThreadHelper;
+
+	MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA(MLAutoAPISingleton_1_OnPerceptionShutdown_mBF8F6B7AC774BCF4AD0E86A78AF6D8E594F5F4CA_RuntimeMethod_var);
+
+}

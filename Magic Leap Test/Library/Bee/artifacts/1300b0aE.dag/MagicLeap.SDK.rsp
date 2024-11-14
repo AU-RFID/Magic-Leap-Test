@@ -1,0 +1,650 @@
+-target:library
+-out:"Library/Bee/artifacts/1300b0aE.dag/MagicLeap.SDK.dll"
+-refout:"Library/Bee/artifacts/1300b0aE.dag/MagicLeap.SDK.ref.dll"
+-define:UNITY_2022_3_5
+-define:UNITY_2022_3
+-define:UNITY_2022
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_3_OR_NEWER
+-define:UNITY_2018_4_OR_NEWER
+-define:UNITY_2019_1_OR_NEWER
+-define:UNITY_2019_2_OR_NEWER
+-define:UNITY_2019_3_OR_NEWER
+-define:UNITY_2019_4_OR_NEWER
+-define:UNITY_2020_1_OR_NEWER
+-define:UNITY_2020_2_OR_NEWER
+-define:UNITY_2020_3_OR_NEWER
+-define:UNITY_2021_1_OR_NEWER
+-define:UNITY_2021_2_OR_NEWER
+-define:UNITY_2021_3_OR_NEWER
+-define:UNITY_2022_1_OR_NEWER
+-define:UNITY_2022_2_OR_NEWER
+-define:UNITY_2022_3_OR_NEWER
+-define:UNITY_INCLUDE_TESTS
+-define:ENABLE_AR
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_EDITOR_GAME_SERVICES
+-define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:ENABLE_MANAGED_AUDIO_JOBS
+-define:ENABLE_RUNTIME_PERMISSIONS
+-define:ENABLE_ENGINE_CODE_STRIPPING
+-define:ENABLE_ONSCREEN_KEYBOARD
+-define:ENABLE_MANAGED_UNITYTLS
+-define:INCLUDE_DYNAMIC_GI
+-define:ENABLE_SCRIPTING_GC_WBARRIERS
+-define:PLATFORM_SUPPORTS_MONO
+-define:ENABLE_VIDEO
+-define:ENABLE_ACCELERATOR_CLIENT_DEBUGGING
+-define:ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION
+-define:ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT
+-define:ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE
+-define:PLATFORM_ANDROID
+-define:TEXTCORE_1_0_OR_NEWER
+-define:UNITY_ANDROID
+-define:UNITY_ANDROID_API
+-define:ENABLE_EGL
+-define:ENABLE_NETWORK
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:UNITY_CAN_SHOW_SPLASH_SCREEN
+-define:UNITY_HAS_GOOGLEVR
+-define:UNITY_HAS_TANGO
+-define:ENABLE_SPATIALTRACKING
+-define:ENABLE_ETC_COMPRESSION
+-define:PLATFORM_EXTENDS_VULKAN_DEVICE
+-define:PLATFORM_HAS_MULTIPLE_SWAPCHAINS
+-define:UNITY_ANDROID_SUPPORTS_SHADOWFILES
+-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP
+-define:ENABLE_UNITYADS_RUNTIME
+-define:UNITY_UNITYADS_API
+-define:ENABLE_MONO
+-define:NET_STANDARD_2_0
+-define:NET_STANDARD
+-define:NET_STANDARD_2_1
+-define:NETSTANDARD
+-define:NETSTANDARD2_1
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_UNITY_COLLECTIONS_CHECKS
+-define:ENABLE_BURST_AOT
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_DIRECTOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_TILEMAP
+-define:ENABLE_TIMELINE
+-define:ENABLE_INPUT_SYSTEM
+-define:ENABLE_LEGACY_INPUT_MANAGER
+-define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:USE_INPUT_SYSTEM_POSE_CONTROL
+-define:USE_STICK_CONTROL_THUMBSTICKS
+-define:UNITY_OPENXR_1_9_0_OR_NEWER
+-define:CSHARP_7_OR_LATER
+-define:CSHARP_7_3_OR_NEWER
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.EditorToolbarModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.PresetsUIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneViewModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.ContentLoadModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.PropertiesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Data.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Drawing.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.IO.Compression.FileSystem.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Net.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Numerics.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Runtime.Serialization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ServiceModel.Web.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Transactions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Web.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Windows.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Linq.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Serialization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/Microsoft.Win32.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.AppContext.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Buffers.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Concurrent.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.NonGeneric.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Specialized.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.TypeConverter.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Console.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Data.Common.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Contracts.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Debug.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Process.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.StackTrace.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tools.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TraceSource.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tracing.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Drawing.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Dynamic.Runtime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Calendars.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.ZipFile.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Watcher.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.IsolatedStorage.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.MemoryMappedFiles.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Pipes.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Expressions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Parallel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Queryable.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Memory.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Http.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NameResolution.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NetworkInformation.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Ping.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Requests.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Security.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Sockets.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebHeaderCollection.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.Client.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Numerics.Vectors.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ObjectModel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.DispatchProxy.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.ILGeneration.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.Lightweight.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Reader.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.ResourceManager.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Writer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Handles.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Numerics.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Json.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Xml.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Claims.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Csp.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Encoding.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Principal.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.SecureString.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.RegularExpressions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Overlapped.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Parallel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Thread.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.ThreadPool.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Timer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ValueTuple.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.ReaderWriter.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlSerializer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.GradleProject.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.5.2/Lib/Editor/PlasticSCM/log4netPlastic.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.5.2/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.5.2/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.5.2/Lib/Editor/PlasticSCM/unityplastic.dll"
+-r:"Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll"
+-r:"Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
+-r:"Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll"
+-r:"Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARSubsystems.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.CoreUtils.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.InteractionSubsystems.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Management.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.OpenXR.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.SpatialTracking.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Anchors/MLAnchors.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Anchors/MLAnchorsInternal.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Anchors/MLAnchorsNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Audio/MLAudioBuffer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Audio/MLAudioChannelMask.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Audio/MLAudioInput.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Audio/MLAudioInputBufferClip.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Audio/MLAudioInputClip.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Audio/MLAudioInputNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Audio/MLAudioInputStreamingClip.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Audio/MLAudioOutput.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Audio/MLAudioOutputNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Audio/MLAudioOutputPlugin/MLAudioOutputPluginBehavior.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Audio/MLAudioOutputPlugin/MLAudioOutputPluginNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Audio/MLAudioOutputPlugin/MLAudioPlayback.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Audio/MLAudioSpatialSound.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/CVCamera/MLCVCamera.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/CVCamera/MLCVCameraNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/DepthCamera/MLDepthCamera.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/DepthCamera/MLDepthCameraData.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/DepthCamera/MLDepthCameraNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Dimmers/MLGlobalDimmer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Dimmers/MLGlobalDimmerNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Dimmers/MLSegmentedDimmer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/EyeCalibration/MLEyeCalibration.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/EyeCalibration/MLEyeCalibrationNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/EyeCamera/MLEyeCamera.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/EyeCamera/MLEyeCameraEnums.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/EyeCamera/MLEyeCameraInternal.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/EyeCamera/MLEyeCameraNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/EyeCamera/MLEyeCameraStructs.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/FacialExpression/MLFacialExpression.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/FacialExpression/MLFacialExpressionNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/GazeRecognition/MLGazeRecognition.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/GazeRecognition/MLGazeRecognitionEnums.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/GazeRecognition/MLGazeRecognitionInternals.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/GazeRecognition/MLGazeRecognitionNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/GazeRecognition/MLGazeRecognitionStructs.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Graphics/GraphicsHooks.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Graphics/GraphicsHooksNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/HeadsetFit/MLHeadsetFit.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/HeadsetFit/MLHeadsetFitNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MarkerTracker/MLMarkerTracker.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MarkerTracker/MLMarkerTrackerData.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MarkerTracker/MLMarkerTrackerNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MarkerTracker/MLMarkerTrackerSettings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MediaFormat/MLMediaFormat.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MediaFormat/MLMediaFormatNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MediaFormatKey/MLMediaFormatKey.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MediaFormatKey/MLMediaFormatKeyNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MediaMuxer/MLMediaMuxer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MediaMuxer/MLMediaMuxerNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MediaRecorder/MLMediaRecorder.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MediaRecorder/MLMediaRecorderNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MediaTTML/MLMediaTTML.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MediaTTML/MLMediaTTMLInternal.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/MediaTTML/MLMediaTTMLNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/NativeSurface/Interfaces/IFrameAvailabilityProvider.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/NativeSurface/Interfaces/IFrameTransformMatrixProvider.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/NativeSurface/Interfaces/IHardwareBufferProvider.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/NativeSurface/Interfaces/INativeBufferProvider.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/NativeSurface/Interfaces/IYcbcrConversionSamplerProvider.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/NativeSurface/MLNativeSurface.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/NativeSurface/MLNativeSurfaceNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/NativeSurface/MLNativeSurfaceYcbcrRenderer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/NativeSurface/YcbcrRenderer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/NativeSurface/YcbcrRendererNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Notifications/MLNotifications.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Notifications/MLNotificationsNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Occlusion/MLOcclusion.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Occlusion/MLOcclusionNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Permissions/MLPermissionNames.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Permissions/MLPermissions.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Permissions/MLPermissionsNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/PowerManager/MLPowerManager.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/PowerManager/MLPowerManagerEnums.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/PowerManager/MLPowerManagerInternals.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/PowerManager/MLPowerManagerNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/PowerManager/MLPowerManagerStructs.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Spaces/MLSpace.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Spaces/MLSpaceEnums.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Spaces/MLSpaceInternal.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Spaces/MLSpaceNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Spaces/MLSpaceStructs.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Time/MLTime.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Time/MLTimeNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Voice/MLVoice.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Voice/MLVoiceInternal.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/Voice/MLVoiceNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/WebView/API/MLWebView.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/WebView/API/MLWebViewEnums.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/WebView/API/MLWebViewEvents.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/WebView/API/MLWebViewInternal.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/WebView/API/MLWebViewYcbcrRenderer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/WebView/Bindings/MLWebViewNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/WebView/Scripts/MLWebViewScreenBehavior.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/WebView/Scripts/MLWebViewTabBarBehavior.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/WebView/Scripts/MLWebViewTabBehavior.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/WorldCamera/MLWorldCamera.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/WorldCamera/MLWorldCameraNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/APIs/WorldCamera/MLWorldCameraStructs.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/AssemblyInfo.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/APIsProfilerMarkers/MLAudioInput.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/APIsProfilerMarkers/MLAudioOutput.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/APIsProfilerMarkers/MLCamera.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/APIsProfilerMarkers/MLCVCamera.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/APIsProfilerMarkers/MLHandTracking.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/APIsProfilerMarkers/MLMediaPlayer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/APIsProfilerMarkers/MLMeshing.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/APIsProfilerMarkers/MLPermissions.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/APIsProfilerMarkers/MLPlanes.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/MagicLeapLibraries.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/MagicLeapNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/MLAPIBase.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/MLAutoAPISingleton.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/MLLazySingleton.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/MLResult.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/NativeSyncBuffer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/CircularBuffer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/InvalidInstanceException.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/MLBitMask.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/MLConvert.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/MLDevice.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/MLPluginLog.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/MLTextureUtils.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/MLThreadDispatch.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/NativeFixedList.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/OnChangedCallAttribute.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/SettingsIntentsLauncher.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/Timer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/UnsafeUtilityEx.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Common/Utils/URPExtensions.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/Camera/API/MLCamera.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/Camera/API/MLCameraBase.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/Camera/API/MLCameraBaseEnums.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/Camera/API/MLCameraBaseEvents.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/Camera/API/MLCameraBaseHelpers.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/Camera/API/MLCameraBaseInternal.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/Camera/API/MLCameraBaseStructs.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/Camera/API/MLCameraBaseYcbcrRenderer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/Camera/Bindings/MLCameraBaseNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/Camera/Bindings/MLCameraBaseNativeCallbacks.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/Camera/Bindings/MLCameraBaseNativeDelegates.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/Camera/Bindings/MLCameraBaseNativeStructs.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/CameraMetadata/MLCameraMetadata.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/CameraMetadata/MLCameraMetadataInternal.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/CameraMetadata/MLCameraMetadataNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/CameraMetadata/MLCameraMetadataTags.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MagicLeapInputs.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/API/IMLMediaPlayer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/API/MLMediaDRM.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/API/MLMediaParserCEA608.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/API/MLMediaParserCEA708.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/API/MLMediaPlayer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/API/MLMediaPlayerEditor.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/API/MLMediaPlayerEnums.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/API/MLMediaPlayerEvents.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/API/MLMediaPlayerTrack.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/Bindings/MLMediaDRMNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/Bindings/MLMediaNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/Bindings/MLMediaParserCEA608NativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/Bindings/MLMediaParserCEA708NativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/Bindings/MLMediaPlayerNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/Bindings/MLMediaPlayerTrackNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/MediaPlayer/Scripts/MLMediaPlayerBehavior.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/3rdparty/SimpleJson/SimpleJson.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTC.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCAppDefinedAudioSource.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCAppDefinedSource.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCAppDefinedVideoSource.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCAudioSink.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCCameraVideoSource.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCConnection.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCDataChannel.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCFrame.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCFrameImagePlane.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCIceCandidate.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCIceServer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCMediaStream.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCMediaStreamTrack.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCProxyConfig.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCSink.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCVideoSink.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/API/MLWebRTCVideoSinkRenderer.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Bindings/MLWebRTCAppDefinedAudioSourceNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Bindings/MLWebRTCAppDefinedSourceNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Bindings/MLWebRTCAppDefinedVideoSourceNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Bindings/MLWebRTCAudioSinkNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Bindings/MLWebRTCConnectionNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Bindings/MLWebRTCDataChannelNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Bindings/MLWebRTCFrameNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Bindings/MLWebRTCNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Bindings/MLWebRTCSourceNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Bindings/MLWebRTCVideoSinkNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Scripts/FPSDisplay.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Scripts/MLWebRTCAudioSinkBehavior.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Scripts/MLWebRTCLocalAppDefinedAudioSourceBehavior.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Deprecated/WebRTC/Scripts/MLWebRTCVideoSinkBehavior.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/LocalizationMap/MagicLeapLocalizationMapFeature.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/LocalizationMap/MagicLeapLocalizationMapFeatureNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/MagicLeapControllerProfile.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/MagicLeapFeature.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/MagicLeapFeatureNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/MagicLeapOpenXRFeatureBase.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/MagicLeapReferenceSpacesFeature.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/MagicLeapRenderingExtensionsFeature.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/MarkerUnderstanding/MagicLeapMarkerUnderstanding.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/MarkerUnderstanding/MagicLeapMarkerUnderstandingData.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/MarkerUnderstanding/MagicLeapMarkerUnderstandingFeature.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/MarkerUnderstanding/MagicLeapMarkerUnderstandingMarkerDetector.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/MarkerUnderstanding/MagicLeapMarkerUnderstandingNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/MLCompat/MLEyeTracking.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/MLCompat/MLInput.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/NativeInteropTypes.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/OpenXRUtils.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/Planes/MagicLeapPlanesFeature.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/Planes/Subsystem/ConvexHullGenerator.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/Planes/Subsystem/CopyPlaneResultsJob.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/Planes/Subsystem/MagicLeapXrPlanesNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/Planes/Subsystem/MLPlanesQueryFlags.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/Planes/Subsystem/MLXrPlaneSubsystem.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/Planes/Subsystem/PlaneBoundary.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/Planes/Subsystem/XRTypes.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/SpatialAnchors/MagicLeapSpatialAnchorsFeature.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/SpatialAnchors/MagicLeapSpatialAnchorsFeatureNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/SpatialAnchors/MagicLeapSpatialAnchorsStorageFeature.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/SpatialAnchors/MagicLeapSpatialAnchorsStorageFeatureNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/SystemNotifications/MagicLeapSystemNotificationsFeature.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/SystemNotifications/SystemNotificationsFeatureNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/UserCalibration/MagicLeapUserCalibrationFeature.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/OpenXR/UserCalibration/MagicLeapUserCalibrationFeatureNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Anchors/AnchorSubsystem.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Anchors/ReferenceFrame.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Gesture/Extensions/TouchpadGestureEvent.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Gesture/GestureSubsystem.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Gesture/GestureSubsystemComponent.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/ImageTracking/ImageTrackingSubsystem.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Input/Extensions/Controller.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Input/Extensions/DeviceCommands.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Input/Extensions/DeviceFeatureUsages.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Input/Extensions/DeviceLayouts.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Input/Extensions/Haptics.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Input/Extensions/MLEyes.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Input/Extensions/MLGestureClassification.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Input/Extensions/MLHandTracking.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Input/Extensions/MLHeadTracking.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Input/Extensions/TouchpadGesture.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Input/Extensions/Utils.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Meshing/Extensions/MLMeshing.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Meshing/Extensions/MLMeshingNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Meshing/MeshingSubsystemComponent.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Meshing/MeshingSubsystemLifecycle.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Planes/ConvexHullGenerator.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Planes/CopyPlaneResultsJob.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Planes/Extensions/MLPlane.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Planes/Extensions/MLPlaneBoundaries.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Planes/Extensions/MLPlaneBoundariesList.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Planes/Extensions/MLPlaneBoundary.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Planes/Extensions/MLPlanesQuery.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Planes/Extensions/MLPlanesQueryFlags.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Planes/Extensions/MLPolygon.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Planes/PlaneBoundary.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Planes/PlaneBoundaryCollection.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Planes/PlanesSubsystem.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Planes/TransformPlaneBoundaryJob.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/Session/SessionSubsystem.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Subsystems/SubsystemFeatures.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Tools/Scripts/MagicLeapCamera.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Tools/Scripts/MLHeadposeCanvasBehavior.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Tools/Scripts/MLVirtualKeyboard.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/Tools/Scripts/MLVoiceIntentsConfiguration.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/XrProvider/MagicLeapXrProvider.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/XrProvider/MagicLeapXrProviderNativeBindings.cs"
+"Library/PackageCache/com.magicleap.unitysdk@dc6f69cbef6a/Runtime/XrProvider/MagicLeapXrProviderSettings.cs"
+-langversion:9.0
+/unsafe+
+/deterministic
+/optimize+
+/debug:portable
+/nologo
+/RuntimeMetadataVersion:v4.0.30319
+
+/nowarn:0169
+/nowarn:0649
+/nowarn:0282
+/nowarn:1701
+/nowarn:1702
+/utf8output
+/preferreduilang:en-US
+
+-warn:0
+
+/additionalfile:"Library/Bee/artifacts/1300b0aE.dag/MagicLeap.SDK.UnityAdditionalFile.txt"
