@@ -625,6 +625,7 @@ GameObject:
   - component: {fileID: 685314643}
   - component: {fileID: 685314645}
   - component: {fileID: 685314646}
+  - component: {fileID: 685314647}
   m_Layer: 0
   m_Name: Managers
   m_TagString: Untagged
@@ -666,7 +667,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 685314642}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5aedddaeb7a14c141a3f917ccf7446be, type: 3}
   m_Name: 
@@ -687,6 +688,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _screenRendererJPEG: {fileID: 2098979343}
+--- !u!114 &685314647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 685314642}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 039442373d19d3c4c8cd66f8d2612ce0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &704240187
 GameObject:
   m_ObjectHideFlags: 0
@@ -3130,6 +3143,7 @@ GameObject:
   - component: {fileID: 2098979341}
   - component: {fileID: 2098979340}
   - component: {fileID: 2098979339}
+  - component: {fileID: 2098979346}
   m_Layer: 0
   m_Name: Grab Interactable
   m_TagString: Untagged
@@ -3455,6 +3469,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 65, z: 0}
+--- !u!114 &2098979346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2098979338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 039442373d19d3c4c8cd66f8d2612ce0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
