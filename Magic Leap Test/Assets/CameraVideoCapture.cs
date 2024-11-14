@@ -14,6 +14,7 @@ public class CameraVideoCapture : MonoBehaviour
     [SerializeField, Tooltip("Desired height for the camera capture")]
     private int captureHeight = 720;
     [SerializeField, Tooltip("The renderer to show the camera capture on RGB format")]
+    private Renderer _screenRendererRGB = null;
 
     //The identifier can either target the Main or CV cameras.
     private MLCamera.Identifier _identifier = MLCamera.Identifier.Main;
@@ -26,10 +27,7 @@ public class CameraVideoCapture : MonoBehaviour
     //The camera capture state
     bool _isCapturing;
 
-    [SerializeField, Tooltip("The UI to show the camera capture in JPEG format")]
-    private RawImage _screenRendererJPEG;
-    //JPEG Image Texture
-    private Texture2D _imageTexture;
+    private Texture2D _videoTextureRgb;
 
 
     private void Start()
@@ -106,8 +104,8 @@ public class CameraVideoCapture : MonoBehaviour
 
         //Initialize a new capture config.
         _captureConfig = new MLCamera.CaptureConfig();
-        //Set JPEG video as the output
-        MLCamera.OutputFormat outputFormat = MLCamera.OutputFormat.JPEG;
+        //Set RGBA video as the output
+        MLCamera.OutputFormat outputFormat = MLCamera.OutputFormat.RGBA_8888;
         //Set the Frame Rate to 30fps
         _captureConfig.CaptureFrameRate = MLCamera.CaptureFrameRate._30FPS;
         //Initialize a camera stream config.
@@ -162,26 +160,47 @@ public class CameraVideoCapture : MonoBehaviour
 
     void RawVideoFrameAvailable(MLCamera.CameraOutput output, MLCamera.ResultExtras extras, MLCameraBase.Metadata metadataHandle)
     {
-        if (output.Format == MLCamera.OutputFormat.JPEG)
+        if (output.Format == MLCamera.OutputFormat.RGBA_8888)
         {
-            UpdateJPGTexture(output.Planes[0]);
+            //Flips the frame vertically so it does not appear upside down.
+            MLCamera.FlipFrameVertically(ref output);
+            UpdateRGBTexture(ref _videoTextureRgb, output.Planes[0], _screenRendererRGB);
         }
     }
-    private void UpdateJPGTexture(MLCamera.PlaneInfo imagePlane)
+    private void UpdateRGBTexture(ref Texture2D videoTextureRGB, MLCamera.PlaneInfo imagePlane, Renderer renderer)
     {
-        if (_imageTexture != null)
-        {
-            Destroy(_imageTexture);
-        }
-        Debug.Log("Testing JPG Texture");
 
-        _imageTexture = new Texture2D(8, 8);
-        bool status = _imageTexture.LoadImage(imagePlane.Data);
-        if (status && (_imageTexture.width != 8 && _imageTexture.height != 8))
+        if (videoTextureRGB != null &&
+            (videoTextureRGB.width != imagePlane.Width || videoTextureRGB.height != imagePlane.Height))
         {
-            Debug.Log("Updating JPG Texture");
-            _screenRendererJPEG.texture = _imageTexture;
+            Destroy(videoTextureRGB);
+            videoTextureRGB = null;
         }
+
+        if (videoTextureRGB == null)
+        {
+            videoTextureRGB = new Texture2D((int)imagePlane.Width, (int)imagePlane.Height, TextureFormat.RGBA32, false);
+            videoTextureRGB.filterMode = FilterMode.Bilinear;
+
+            Material material = renderer.material;
+            material.mainTexture = videoTextureRGB;
+        }
+
+        int actualWidth = (int)(imagePlane.Width * imagePlane.PixelStride);
+
+        if (imagePlane.Stride != actualWidth)
+        {
+            var newTextureChannel = new byte[actualWidth * imagePlane.Height];
+            for (int i = 0; i < imagePlane.Height; i++)
+            {
+                Buffer.BlockCopy(imagePlane.Data, (int)(i * imagePlane.Stride), newTextureChannel, i * actualWidth, actualWidth);
+            }
+            videoTextureRGB.LoadRawTextureData(newTextureChannel);
+        }
+        else
+        {
+            videoTextureRGB.LoadRawTextureData(imagePlane.Data);
+        }
+        videoTextureRGB.Apply();
     }
-
 }
